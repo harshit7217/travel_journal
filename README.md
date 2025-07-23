@@ -1,12 +1,34 @@
-# React + Vite
+# ✈️ Travel Journal | UI Showcase & React Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and minimalist travel journal web app built to highlight iconic destinations and personal adventures. Designed with simplicity and clarity in mind, this project captures key travel highlights and location data in a visually clean, card-based layout.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [https://traveljournalby.netlify.app](https://traveljournalby.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Mount Fuji (Japan)**
+  - Dates: 12 Jan, 2021 – 24 Jan, 2021
+  - Iconic mountain view with embedded Google Maps link
+
+- **Sydney Opera House (Australia)**
+  - Dates: 27 May, 2021 – 8 Jun, 2021
+  - Sleek card layout emphasizing architecture and location
+
+- **Geirangerfjord (Norway)**
+  - Dates: 01 Oct, 2021 – 18 Nov, 2021
+  - Crisp and scenic visuals, with map integration
+
+---
+
+## ⚙️ Tech Stack
+
+- **React.js** – Component-based structure for modular travel cards
+- **CSS Flex/Grid** – Clean, responsive layouts
+- **Google Maps Integration** – Embedded links for location viewing
+
+---
+
+## 📁 Folder Structure
+
